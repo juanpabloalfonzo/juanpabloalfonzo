@@ -1,6 +1,6 @@
 # Hi, I'm Juan Pablo Alfonzo 👋
 
-**Computational Astrophysicist | Baseball Data Scientist **
+**Computational Astrophysicist | Baseball Data Scientist**
 
 I specialize in extracting physical truths from noisy, unstructured datasets. Whether I'm deploying Vision Transformers to infer the star formation history of distant galaxies or building gradient-boosted models to quantify the deception of a major league pitch tunnel, my focus is on robust statistical modeling and uncertainty quantification. 
 
