@@ -1,10 +1,10 @@
 # Hi, I'm Juan Pablo Alfonzo 👋
 
-**Computational Astrophysicist | Baseball Data Scientist | High-Dimensional Signal Hunter**
+**Computational Astrophysicist | Baseball Data Scientist **
 
 I specialize in extracting physical truths from noisy, unstructured datasets. Whether I'm deploying Vision Transformers to infer the star formation history of distant galaxies or building gradient-boosted models to quantify the deception of a major league pitch tunnel, my focus is on robust statistical modeling and uncertainty quantification. 
 
-Currently, I'm a PhD candidate in Astrophysics at Tohoku University, where I train deep learning models on remote GPU clusters. When I'm not writing Python, you can find me at the gym, playing baseball, basketball, or hunting for new edges in Statcast kinematics.
+Currently, I'm a PhD candidate in Astrophysics at Tohoku University, where I train deep learning models on remote GPU clusters. When I'm not writing code, you can find me at: the gym, on the field ⚾, on the court 🏀, or hunting for new edges in Statcast kinematics.
 
 ---
 
