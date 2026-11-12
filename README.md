@@ -35,5 +35,5 @@ Currently, I'm a PhD candidate in Astrophysics at Tohoku University, where I tra
 ## ⚡ Quick Facts
 - 🎓 **Education:** PhD in Astrophysics (Tohoku University, defending Summer 2027) | BSc (University of Toronto).
 - 📍 **Location:** Sendai, Japan.
-- ⚾ **On the Field:** Shortstop/Right-handed batter(SS/RH) 
+- ⚾ **On the Field:** Shortstop/Right-handed batter (SS/RH) 
 - 📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/juan-pablo-alfonzo-7b9623201/) 
